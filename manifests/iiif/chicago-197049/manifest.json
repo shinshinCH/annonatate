@@ -1,0 +1,284 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://shinshinch.github.io/annonatate/manifests/iiif/chicago-197049/manifest.json",
+  "@type": "sc:Manifest",
+  "label": [
+    {
+      "@value": "Snow at Funabori (Funabori no Yuki)",
+      "@language": "ja"
+    },
+    {
+      "@value": "Snow at Funabori (Funabori no Yuki)",
+      "@language": "en"
+    },
+    {
+      "@value": "\u8239\u5800\u306e\u96ea\uff08\u8239\u5800\u306e\u96ea\uff09",
+      "@language": "ja-x-mt"
+    }
+  ],
+  "description": [
+    "Classification: woodblock print",
+    "Artist: Kawase Hasui \u5ddd\u702c \u5df4\u6c34\nJapanese, 1883-1957",
+    "A work made of color woodblock print",
+    "Classification: print",
+    "Date end: 1932"
+  ],
+  "attribution": [
+    {
+      "@value": "\u30b7\u30ab\u30b4\u7f8e\u8853\u9928",
+      "@language": "ja"
+    },
+    {
+      "@value": "\u300c\u30b7\u30ab\u30b4\u7f8e\u8853\u9928API\u300d\u306e\u753b\u50cf\u3092IIIF\u30d3\u30e5\u30fc\u30a2\u3067\u95b2\u89a7\u3067\u304d\u308b\u3088\u3046\u306b(https://www.artic.edu/artworks/197049)\u306b\u57fa\u3065\u3044\u3066\u4f5c\u6210",
+      "@language": "ja"
+    },
+    {
+      "@value": "Art Institute of Chicago",
+      "@language": "en"
+    },
+    {
+      "@value": "Created by \"Art Institute of Chicago API\" (https://www.artic.edu/artworks/197049)",
+      "@language": "en"
+    }
+  ],
+  "metadata": [
+    {
+      "label": [
+        {
+          "@value": "\u53ce\u9332DB",
+          "@language": "ja",
+          "@id": "https://jpsearch.go.jp/term/property#sourceInfo"
+        },
+        {
+          "@value": "Database",
+          "@language": "en",
+          "@id": "https://jpsearch.go.jp/term/property#sourceInfo"
+        }
+      ],
+      "value": [
+        {
+          "@value": "\u30b7\u30ab\u30b4\u7f8e\u8853\u9928API",
+          "@language": "ja"
+        },
+        {
+          "@value": "Art Institute of Chicago API",
+          "@language": "en"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "\u57fa\u672c\u533a\u5206",
+          "@language": "ja",
+          "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        {
+          "@value": "Type",
+          "@language": "en",
+          "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      ],
+      "value": [
+        {
+          "@value": "\u7248\u753b",
+          "@language": "ja"
+        },
+        {
+          "@value": "Print",
+          "@language": "en"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "\u4eba\u7269",
+          "@language": "ja",
+          "@id": "https://jpsearch.go.jp/term/property#agential"
+        },
+        {
+          "@value": "People",
+          "@language": "en",
+          "@id": "https://jpsearch.go.jp/term/property#agential"
+        }
+      ],
+      "value": [
+        {
+          "@value": "\u5ddd\u702c\u5df4\u6c34",
+          "@language": "ja"
+        },
+        {
+          "@value": "Kawase, Hasui",
+          "@language": "en"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "\u5834\u6240",
+          "@language": "ja",
+          "@id": "https://jpsearch.go.jp/term/property#spatial"
+        },
+        {
+          "@value": "Place",
+          "@language": "en",
+          "@id": "https://jpsearch.go.jp/term/property#spatial"
+        }
+      ],
+      "value": [
+        {
+          "@value": "\u65e5\u672c",
+          "@language": "ja"
+        },
+        {
+          "@value": "Japan",
+          "@language": "en"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "\u6642\u9593",
+          "@language": "ja",
+          "@id": "https://jpsearch.go.jp/term/property#temporal"
+        },
+        {
+          "@value": "Time",
+          "@language": "en",
+          "@id": "https://jpsearch.go.jp/term/property#temporal"
+        }
+      ],
+      "value": [
+        {
+          "@value": "1932\u5e74",
+          "@language": "ja"
+        },
+        {
+          "@value": "1932",
+          "@language": "en"
+        }
+      ]
+    }
+  ],
+  "seeAlso": "https://ld.cultural.jp/data/chicago-197049",
+  "related": "https://cultural.jp/item/chicago-197049",
+  "thumbnail": "https://www.artic.edu/iiif/2/fed55675-1602-4731-2972-675dbb350089/full/200,/0/default.jpg",
+  "license": "https://www.artic.edu/terms",
+  "sequences": [
+    {
+      "@id": "https://api.cultural.jp/iiif/chicago-197049/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://api.cultural.jp/iiif/chicago-197049/canvas/p1",
+          "@type": "sc:Canvas",
+          "height": 2249,
+          "images": [
+            {
+              "@id": "https://api.cultural.jp/iiif/chicago-197049/annotation/p1-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://api.cultural.jp/iiif/chicago-197049/canvas/p1",
+              "resource": {
+                "@id": "https://www.artic.edu/iiif/2/fed55675-1602-4731-2972-675dbb350089/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2249,
+                "width": 1103,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lakeimagesweb.artic.edu/iiif/2/fed55675-1602-4731-2972-675dbb350089",
+                  "protocol": "http://iiif.io/api/image",
+                  "width": 1103,
+                  "height": 2249,
+                  "sizes": [
+                    {
+                      "width": 69,
+                      "height": 141
+                    },
+                    {
+                      "width": 138,
+                      "height": 281
+                    },
+                    {
+                      "width": 276,
+                      "height": 562
+                    },
+                    {
+                      "width": 552,
+                      "height": 1125
+                    },
+                    {
+                      "width": 1103,
+                      "height": 2249
+                    }
+                  ],
+                  "tiles": [
+                    {
+                      "width": 256,
+                      "height": 256,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "supports": [
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "label": "[1]",
+          "thumbnail": {
+            "@id": "https://www.artic.edu/iiif/2/fed55675-1602-4731-2972-675dbb350089/full/200,/0/default.jpg"
+          },
+          "width": 1103
+        }
+      ]
+    }
+  ]
+}
