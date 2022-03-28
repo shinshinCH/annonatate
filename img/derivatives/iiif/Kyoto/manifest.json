@@ -1,0 +1,68 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://shinshinch.github.io/annonatate/img/derivatives/iiif/Kyoto/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Festivals in Kyoto"
+    ]
+  },
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://shinshinch.github.io/annonatate/img/derivatives/iiif/Kyoto/canvas/Kyoto-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "festivals_kyoto_canvas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://shinshinch.github.io/annonatate/img/derivatives/iiif/Kyoto/festivalskyotocanvas/full/105,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 780,
+      "width": 3365,
+      "items": [
+        {
+          "id": "https://shinshinch.github.io/annonatate/img/derivatives/iiif/Kyoto/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://shinshinch.github.io/annonatate/img/derivatives/iiif/Kyoto/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://shinshinch.github.io/annonatate/img/derivatives/iiif/Kyoto/festivalskyotocanvas/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 780,
+                "width": 3365,
+                "service": [
+                  {
+                    "id": "https://shinshinch.github.io/annonatate/img/derivatives/iiif/Kyoto/festivalskyotocanvas",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://shinshinch.github.io/annonatate/img/derivatives/iiif/Kyoto/canvas/Kyoto-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
