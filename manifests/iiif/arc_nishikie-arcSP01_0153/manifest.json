@@ -1,0 +1,157 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://shinshinch.github.io/annonatate/manifests/iiif/arc_nishikie-arcSP01_0153/manifest.json",
+  "@type": "sc:Manifest",
+  "label": [
+    {
+      "@value": "\u300cFESTIVALS  IN KYOTO]",
+      "@language": "ja"
+    },
+    {
+      "@value": "\u300cFESTIVALS  IN KYOTO]",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    "AcNo.: arcSP01-0153",
+    "Col\u91cd\u8907no.: 1",
+    "\u8cc7\u6599\u30b0\u30eb\u30fc\u30d7: \u6d6e\u4e16\u7d75",
+    "All Group  No.: arcSP01-0153",
+    "All\u91cd\u8907No.: 1",
+    "\u4f5c\u54c1\u4f4d\u7f6e: 001:001/01;01",
+    "\u7cfb\u7d71\u5206\u985e\u984c: \u4e00\u679a\u647a"
+  ],
+  "attribution": [
+    {
+      "@value": "\u7acb\u547d\u9928\u5927\u5b66\u30a2\u30fc\u30c8\u30fb\u30ea\u30b5\u30fc\u30c1\u30bb\u30f3\u30bf\u30fc",
+      "@language": "ja"
+    },
+    {
+      "@value": "\u300cARC\u6d6e\u4e16\u7d75\u30dd\u30fc\u30bf\u30eb\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u300d\u306e\u753b\u50cf\u3092IIIF\u30d3\u30e5\u30fc\u30a2\u3067\u95b2\u89a7\u3067\u304d\u308b\u3088\u3046\u306b(https://www.dh-jac.net/db/nishikie/arcSP01-0153/portal/)\u306b\u57fa\u3065\u3044\u3066\u4f5c\u6210",
+      "@language": "ja"
+    },
+    {
+      "@value": "Art Research Center, Ritsumeikan University",
+      "@language": "en"
+    },
+    {
+      "@value": "Created by \"ARC Ukiyo-e Portal Database\" (https://www.dh-jac.net/db/nishikie/arcSP01-0153/portal/)",
+      "@language": "en"
+    }
+  ],
+  "metadata": [
+    {
+      "label": [
+        {
+          "@value": "\u53ce\u9332DB",
+          "@language": "ja",
+          "@id": "https://jpsearch.go.jp/term/property#sourceInfo"
+        },
+        {
+          "@value": "Database",
+          "@language": "en",
+          "@id": "https://jpsearch.go.jp/term/property#sourceInfo"
+        }
+      ],
+      "value": [
+        {
+          "@value": "ARC\u6d6e\u4e16\u7d75\u30dd\u30fc\u30bf\u30eb\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9",
+          "@language": "ja"
+        },
+        {
+          "@value": "ARC Ukiyo-e Portal Database",
+          "@language": "en"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "\u57fa\u672c\u533a\u5206",
+          "@language": "ja",
+          "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        {
+          "@value": "Type",
+          "@language": "en",
+          "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      ],
+      "value": [
+        {
+          "@value": "\u7d75\u753b\u7b49",
+          "@language": "ja"
+        },
+        {
+          "@value": "Drawings, Paintings, Prints, Graphic Arts",
+          "@language": "en"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "\u30ad\u30fc\u30ef\u30fc\u30c9",
+          "@language": "ja",
+          "@id": "http://schema.org/about"
+        },
+        {
+          "@value": "Keyword",
+          "@language": "en",
+          "@id": "http://schema.org/about"
+        }
+      ],
+      "value": [
+        {
+          "@value": "\u4e00\u679a\u647a",
+          "@language": "ja"
+        },
+        {
+          "@value": "\u4e00\u679a\u647a",
+          "@language": "en"
+        }
+      ]
+    }
+  ],
+  "seeAlso": "https://jpsearch.go.jp/data/arc_nishikie-arcSP01_0153",
+  "related": "https://cultural.jp/item/arc_nishikie-arcSP01_0153",
+  "thumbnail": "http://www.arc.ritsumei.ac.jp/archive01/theater/th_image/PB/arc/Prints/arcSP/arcSP01/arcSP01-0153.jpg",
+  "license": "http://www.arc.ritsumei.ac.jp/guide.html",
+  "sequences": [
+    {
+      "@id": "https://api.cultural.jp/iiif/arc_nishikie-arcSP01_0153/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://api.cultural.jp/iiif/arc_nishikie-arcSP01_0153/canvas/p1",
+          "@type": "sc:Canvas",
+          "height": 664,
+          "width": 2700,
+          "images": [
+            {
+              "@id": "https://api.cultural.jp/iiif/arc_nishikie-arcSP01_0153/annotation/p1-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://api.cultural.jp/iiif/arc_nishikie-arcSP01_0153/canvas/p1",
+              "resource": {
+                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/arc/Prints/arcSP/arcSP01/arcSP01-0153.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 664,
+                "width": 2700
+              }
+            }
+          ],
+          "label": "[1]",
+          "thumbnail": {
+            "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/th_image/PB/arc/Prints/arcSP/arcSP01/arcSP01-0153.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
